@@ -27,3 +27,17 @@ Unemployment in India Dataset
 
 ### Output
 Analyzed unemployment data and plotted unemployment rate graph successfully.
+
+# Car Price Prediction
+
+This project uses Machine Learning to predict car prices.
+
+Steps:
+- Data cleaning
+- Model training (Linear Regression)
+- Prediction
+
+Tools used:
+- Python
+- Pandas
+- Scikit-learn
