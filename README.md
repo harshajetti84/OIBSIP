@@ -1,4 +1,4 @@
-# Iris Flower Classification
+# task 1 Iris Flower Classification
 
 ## Objective
 This project classifies iris flowers into different species using Machine Learning.
@@ -28,7 +28,7 @@ Unemployment in India Dataset
 ### Output
 Analyzed unemployment data and plotted unemployment rate graph successfully.
 
-# Car Price Prediction
+# task 3 Car Price Prediction
 
 This project uses Machine Learning to predict car prices.
 
@@ -36,8 +36,23 @@ Steps:
 - Data cleaning
 - Model training (Linear Regression)
 - Prediction
-
+ 
 Tools used:
 - Python
 - Pandas
 - Scikit-learn
+
+ # task 4 Email Spam Detection with Machine Learning
+
+This project detects whether an email is spam or not using Machine Learning.
+
+## Technologies Used
+- Python
+- Pandas
+- Scikit-learn
+
+## Algorithm Used
+- Multinomial Naive Bayes
+
+## Output
+The model predicts whether the email is spam or not spam.
