@@ -56,3 +56,26 @@ This project detects whether an email is spam or not using Machine Learning.
 
 ## Output
 The model predicts whether the email is spam or not spam.
+
+# task 5 Sales Prediction using Python
+
+This project predicts product sales based on advertising expenditures using Machine Learning.
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+## Algorithm Used
+- Linear Regression
+
+## Project Workflow
+1. Data Collection
+2. Data Preprocessing
+3. Data Visualization
+4. Model Training
+5. Sales Prediction
+6. Performance Evaluation
